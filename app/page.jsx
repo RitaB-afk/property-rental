@@ -1,8 +1,9 @@
-
-
+import Hero from "@/components/Hero"
+import InfoBoxes from "@/components/InfoBoxes"
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <><Hero />
+    <InfoBoxes /></>
   )
 }
 
